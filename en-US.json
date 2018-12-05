@@ -1,0 +1,168 @@
+{
+  "readyToStartPhrase": [
+    {
+      "content": "Ready to start?",
+      "role": "Alexa"
+    }
+  ],
+  "selectMissionPhrase": [
+    {
+      "content": "Please, select mission",
+      "role": "Alexa"
+    }
+  ],
+  "wantStartMissionPhrase": [
+    {
+      "content": "Okay, but I'm sorry to hear you go. Would you like to switch a different activity instead?",
+      "role": "Alexa"
+    }
+  ],
+  "wantResetProgressPhrase": [
+    {
+      "content": "Are you sure you want to discontinue the game and lose all your progress and score?",
+      "role": "Alexa"
+    }
+  ],
+  "wantExitPhrase": [
+    {
+      "content": "Are you done playing this game for today?",
+      "role": "Alexa"
+    }
+  ],
+  "returnToGamePhrase": [
+    {
+      "content": "You'll be returned to game process",
+      "role": "Alexa"
+    }
+  ],
+  "repeatLastPhrase": [
+    {
+      "content": "I don't understand you. Please, repeat last command",
+      "role": "Alexa"
+    }
+  ],
+  "unknownWordPhrase": [
+    {
+      "content": "I didn't catch that",
+      "role": "Alexa"
+    }
+  ],
+  "exitAfterCancelPhrase": [
+    {
+      "content": "Alright, hope to see you again soon",
+      "role": "Alexa"
+    }
+  ],
+  "exitPhrase": [
+    {
+      "content": "We had fun together. Let's do this again soon.",
+      "role": "Alexa"
+    }
+  ],
+  "fallbackPhrase": [
+    {
+      "content": "Please, say it again",
+      "role": "Alexa"
+    }
+  ],
+  "wantMissionFromBeginningPhrase": [
+    {
+      "content": "Do you want to start mission from the beginning?",
+      "role": "Alexa"
+    }
+  ],
+  "generalHelpPhrase": [
+    {
+      "content": "You are competing against your friend Ben. The game is played until 11 points. During each round, you will be playing one of 5 fun activities.",
+      "role": "Alexa"
+    }
+  ],
+  "activityLastLetterHelpPhrase": [
+    {
+      "content": "In Last Letter, pay attention to the last letter of the word because to hit back, your word has to start with that letter. So if I say dog, you say goat or grass.",
+      "role": "Alexa"
+    }
+  ],
+  "activityBamWhamHelpPhrase": [
+    {
+      "content": "In BAM WHAM, I'll say words that start with 'B' and you have to respond with the correct rhyming word that starts with 'W'. So if i say 'bomp', you say 'whomp'",
+      "role": "Alexa"
+    }
+  ],
+  "activityAlphabetRaceHelpPhrase": [
+    {
+      "content": "In ALPHABET RACE, pay attention to the first letter of the word and then respond with a word that starts with the next letter in the alphabet. So if I say Lamp, you say Monkey because M comes after L.",
+      "role": "Alexa"
+    }
+  ],
+  "activityRhymeMatchHelpPhrase": [
+    {
+      "content": "In RHYME MATCH we have to respond with a word that rhymes with the last word. So if I say hug, you say bug.",
+      "role": "Alexa"
+    }
+  ],
+  "redirectionToUnknownActivityPhrase": [
+    {
+      "content": "You will be redirected to next activity",
+      "role": "Alexa"
+    }
+  ],
+  "trySomethingElsePhrase": [
+    {
+      "content": "Would you like to try something else?"
+    }
+  ],
+  "newActivityUnlockedPhrase": [
+    {
+      "content": "Congrats! You are now ready for a new activity called %activity%. Do you want to play it now?"
+    }
+  ],
+  "selectActivityBetweenOnePhrase": [
+    {
+      "content": "Would you like to continue?",
+      "role": "Alexa"
+    }
+  ],
+  "selectActivityBetweenTwoPhrase": [
+    {
+      "content": "Do you want to play Last Letter or Bam Wham?",
+      "role": "Alexa"
+    }
+  ],
+  "selectActivityBetweenThreePhrase": [
+    {
+      "content": "Do you want to play Last Letter, Bam Wham or Alphabet Race?",
+      "role": "Alexa"
+    }
+  ],
+  "selectActivityBetweenAllPhrase": [
+    {
+      "content": "Do you want to play Last Letter, Bam Wham or Something Else?",
+      "role": "Alexa"
+    }
+  ],
+  "wantRestartPhrase": [
+    {
+      "content": "Do you want to restart?",
+      "role": "Alexa"
+    }
+  ],
+  "playerFavorPhrase": [
+    {
+      "content": "In your favour.",
+      "role": "Alexa"
+    }
+  ],
+  "enemyFavorPhrase": [
+    {
+      "content": "In Ben's favour.",
+      "role": "Alexa"
+    }
+  ],
+  "readyToPlay": [
+    {
+      "content": "Ready to play?",
+      "role": "Alexa"
+    }
+  ]
+}

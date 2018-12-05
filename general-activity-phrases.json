@@ -1,0 +1,176 @@
+{
+  "playerWonTwiceInRow": [
+    {
+      "content": "Looks like this is too easy for you!",
+      "role": "Ben"
+    },
+    {
+      "content": "You've clearly gotten a lot better!",
+      "role": "Ben"
+    },
+    {
+      "content": "I think you're ready for more of a challenge!",
+      "role": "Ben"
+    },
+    {
+      "content": "So you think you're a master already, huh?",
+      "role": "Ben"
+    },
+    {
+      "content": "You're getting really good at this!",
+      "role": "Ben"
+    }
+  ],
+  "enemyWonOnce": [
+    {
+      "content": "I win this round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Woohoo! I win the round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Yay, I win the round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Got you this round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Nice, I win the round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Yes! I won",
+      "role": "Ben"
+    },
+    {
+      "content": "Sweet! beat you",
+      "role": "Ben"
+    },
+    {
+      "content": "Oh yeah! I defeated you",
+      "role": "Ben"
+    },
+    {
+      "content": "Woohoo! I won",
+      "role": "Ben"
+    },
+    {
+      "content": "I got you this time! I won",
+      "role": "Ben"
+    }
+  ],
+  "playerLoseTwice": [
+    {
+      "content": "I beat you twice in a round",
+      "role": "Ben"
+    }
+  ],
+  "totalScore": [
+    {
+      "content": "Now the score is %enemyScore% : %scores%",
+      "role": "Alexa"
+    },
+    {
+      "content": "The score is now %enemyScore% : %scores%",
+      "role": "Alexa"
+    },
+    {
+      "content": "Current score %enemyScore% : %scores%",
+      "role": "Alexa"
+    },
+    {
+      "content": "Here's the current score %enemyScore% : %scores%",
+      "role": "Alexa"
+    },
+    {
+      "content": "That makes it %enemyScore% : %scores%",
+      "role": "Alexa"
+    }
+  ],
+  "nextRound": [
+    {
+      "content": "Let's do another round.",
+      "role": "Ben"
+    },
+    {
+      "content": "Next round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Time for the next round!",
+      "role": "Ben"
+    },
+    {
+      "content": "Let's play again!",
+      "role": "Ben"
+    }
+  ],
+  "playerWinScore": [
+    {
+      "content": "This is your %scores% victory.",
+      "role": "Alexa"
+    },
+    {
+      "content": "This is the %scores% time that you've won!",
+      "role": "Alexa"
+    },
+    {
+      "content": "This is your %scores% win! Congrats!",
+      "role": "Alexa"
+    }
+  ],
+  "playerWinGame": [
+    {
+      "content": "WOW, you won 11 to %enemyScore%.",
+      "role": "Alexa"
+    }
+  ],
+  "enemyWinScore": [
+    {
+      "content": "This is my %scores% victory.",
+      "role": "Ben"
+    },
+    {
+      "content": "This is the %scores% time that I've won!",
+      "role": "Ben"
+    },
+    {
+      "content": "This is the %scores% time that I beat you!",
+      "role": "Ben"
+    },
+    {
+      "content": "This marks the %scores% time that I taste victory!",
+      "role": "Ben"
+    }
+  ],
+  "enemyWinGame": [
+    {
+      "content": "Nice try. Ben won 11 to %scores%",
+      "role": "Alexa"
+    }
+  ],
+  "victoryPhrase": [
+    {
+      "content": "Hey you really creamed me",
+      "role": "Ben"
+    },
+    {
+      "content": "Hey that was really close",
+      "role": "Ben"
+    }
+  ],
+  "defeatPhrase": [
+    {
+      "content": "Hey I really creamed you",
+      "role": "Ben"
+    },
+    {
+      "content": "Hey that was really close",
+      "role": "Ben"
+    }
+  ]
+}
