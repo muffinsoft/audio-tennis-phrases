@@ -31,7 +31,7 @@
   ],
   "returnToGamePhrase": [
     {
-      "content": "You'll be returned to game process.",
+      "content": "Are you ready to be returned to the game process?",
       "role": "Alexa"
     }
   ],
@@ -101,12 +101,6 @@
       "role": "Alexa"
     }
   ],
-  "redirectionToUnknownActivityPhrase": [
-    {
-      "content": "You will be redirected to next activity",
-      "role": "Alexa"
-    }
-  ],
   "trySomethingElsePhrase": [
     {
       "content": "Would you like to try something else?"
@@ -115,12 +109,6 @@
   "newActivityUnlockedPhrase": [
     {
       "content": "Congrats! You are now ready for a new activity called %activity%. Do you want to play it now?"
-    }
-  ],
-  "selectActivityBetweenOnePhrase": [
-    {
-      "content": "Would you like to continue?",
-      "role": "Alexa"
     }
   ],
   "selectActivityBetweenTwoPhrase": [
