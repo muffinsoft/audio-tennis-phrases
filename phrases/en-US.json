@@ -79,26 +79,26 @@
   ],
   "activityLastLetterHelpPhrase": [
     {
-      "content": "In Last Letter, pay attention to the last letter of the word because to hit back, your word has to start with that letter. So if I say dog, you say goat or grass.",
-      "role": "Alexa"
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/activityLastLetterHelpPhrase.mp3"
     }
   ],
   "activityBamWhamHelpPhrase": [
     {
-      "content": "In BAM WHAM, I'll say words that start with 'B' and you have to respond with the correct rhyming word that starts with 'W'. So if i say 'bomp', you say 'whomp'",
-      "role": "Alexa"
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/activityBamWhamHelpPhrase.mp3"
     }
   ],
   "activityAlphabetRaceHelpPhrase": [
     {
-      "content": "In ALPHABET RACE, pay attention to the first letter of the word and then respond with a word that starts with the next letter in the alphabet. So if I say Lamp, you say Monkey because M comes after L.",
-      "role": "Alexa"
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/activityAlphabetRaceHelpPhrase.mp3"
     }
   ],
   "activityRhymeMatchHelpPhrase": [
     {
-      "content": "In RHYME MATCH we have to respond with a word that rhymes with the last word. So if I say hug, you say bug.",
-      "role": "Alexa"
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/activityRhymeMatchHelpPhrase.mp3"
     }
   ],
   "trySomethingElsePhrase": [
@@ -106,9 +106,22 @@
       "content": "Would you like to try something else?"
     }
   ],
-  "newActivityUnlockedPhrase": [
+  "newActivityUnlockedPhraseB": [
     {
-      "content": "Congrats! You are now ready for a new activity called %activity%. Do you want to play it now?"
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/enUsNewActivityUnlockedPhraseB.mp3"
+    }
+  ],
+  "newActivityUnlockedPhraseC": [
+    {
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/enUsNewActivityUnlockedPhraseC.mp3"
+    }
+  ],
+  "newActivityUnlockedPhraseD": [
+    {
+      "role": "Audio",
+      "audio": "https://s3.amazonaws.com/audio-tennis/audio/enUsNewActivityUnlockedPhraseD.mp3"
     }
   ],
   "selectActivityBetweenTwoPhrase": [
